@@ -1,0 +1,31 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## * https://wiki.archlinux.org/title/Fluxbox
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Fluxbox
+##
+
+fluxbox
+
+
+tint2
+picom
+rofi
+
+
+## ## for /usr/bin/fbsetbg
+feh
+gxmessage

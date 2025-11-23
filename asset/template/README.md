@@ -1,0 +1,20 @@
+
+
+# Ezarcher / ISO Build / Fluxbox
+
+
+
+
+## Build
+
+run
+
+``` sh
+./build.sh
+```
+
+or run
+
+``` sh
+make build
+```
